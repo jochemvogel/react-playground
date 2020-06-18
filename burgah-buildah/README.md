@@ -1,6 +1,6 @@
 # Burgah Buildah
 
-This project was created during a 40+ hours Udemy course where (almost) everything has been covered. The basics, debugging, routing, validation, authentication, Redux, testing etc.
+This project was created during a 40+ hours Udemy course where (almost) everything has been covered. The basics, debugging, routing, validation, authentication, Redux, testing etc. Link: https://burgah-buildah.web.app/
 
 ## React App
 
